@@ -18,9 +18,11 @@ GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyecto
 El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares. Al inicio, el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este sitio; sin embargo, no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código abierto.
 
 ## ¿Qué necesitamos para usar ***Github*** en nuestros proyectos?
-1º. Alta Github
-2º. Git Bash (terminal)
-3º. Carpeta en disco local.
+1. Alta Github: registrarse con una cuenta personal gratuita y comprobar la dirección de correo electrónico.
+  > [!WARNING]
+  > REgistrarse [Ir a página oficial git](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github)
+2. Git Bash (terminal): 
+3. Carpeta en disco local.
 
 ### <ins>**Comandos habituales para trabajar con repositorios remotos:**</ins>
 - [ ] git init: Esto crea un subdirectorio nuevo llamado .git, el cual contiene todos los archivos necesarios del repositorio – un esqueleto de un repositorio de Git. Todavía no hay nada en tu proyecto que esté bajo seguimiento.

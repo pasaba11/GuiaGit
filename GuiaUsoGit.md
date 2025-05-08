@@ -36,8 +36,8 @@ El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones 
 
 #### Hacer Fork de un repositorio existente.
     1. Se busca el usuario del que se quiere copiar un proyecto a nuestro Git Hub.
-    2. Una vez se tiene el proyecto se da a <ins>*Fork*</ins>
-    3. Se da al botón **Code**
+    2. Una vez se tiene el proyecto se da a Fork
+    3. Se da al botón Code
     4. Se abre Git Bash.  
     5. Escribe git init
     6. Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.

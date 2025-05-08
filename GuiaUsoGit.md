@@ -21,8 +21,8 @@ El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones 
 1. Alta Github: registrarse con una cuenta personal gratuita y comprobar la dirección de correo electrónico.
   > [!WARNING]
   > Registrarse [Ir a página oficial git](https://github.com/.)
-2. Git Bash (terminal): 
-3. Carpeta en disco local.
+2. Git Bash (terminal): es una aplicación para entornos de Microsoft Windows que ofrece una capa de emulación para una experiencia de líneas de comandos de Git. > Bash es el acrónimo en inglés de Bourne Again Shell. Una *shell* es una aplicación de terminal que se utiliza como interfaz con un sistema operativo mediante comandos escritos. Bash es una shell predeterminada popular en <ins>**Linux y macOS.**</ins> Git Bash es un paquete que instala Bash, algunas utilidades comunes de bash y Git en un sistema operativo Windows.
+3. Carpeta en disco local: C:\Users\Grupo1\repo6
 
 ### <ins>**Comandos habituales para trabajar con repositorios remotos:**</ins>
 - [ ] git init: Esto crea un subdirectorio nuevo llamado .git, el cual contiene todos los archivos necesarios del repositorio – un esqueleto de un repositorio de Git. Todavía no hay nada en tu proyecto que esté bajo seguimiento.
@@ -35,4 +35,5 @@ El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones 
 #### Clonar un repositorio.
 
 #### Hacer Fork de un repositorio existente.
-
+    **1.** Se busca el usuario del que se quiere copiar un proyecto a nuestro Git Hub.
+    

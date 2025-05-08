@@ -13,8 +13,9 @@ Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudi
 El mantenimiento del software Git está actualmente (2009) supervisado por Junio Hamano, quien recibe contribuciones al código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.
 
 | Columna1  |Columna2  |Columna3
-| Columna1  |Columna2  |Columna3
-| Columna1  |Columna2  |Columna3
+|-----------|----------|--------
+| Columna1  |Columna2  |Columna3  
+| Columna1  |Columna2  |Columna3  
 
 ## ¿Qué es Github? 
 ![Imagen carpetas](Github.png)

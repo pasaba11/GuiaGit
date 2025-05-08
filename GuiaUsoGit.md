@@ -12,7 +12,9 @@ Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudi
 
 El mantenimiento del software Git está actualmente (2009) supervisado por Junio Hamano, quien recibe contribuciones al código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.
 
-## ¿Qué es Github? ![Imagen carpetas](Github.png)
+## ¿Qué es Github? 
+![Imagen carpetas](Github.png)
+
 GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena generalmente de forma pública.
 
 El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares. Al inicio, el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este sitio; sin embargo, no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código abierto.
@@ -35,8 +37,8 @@ El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones 
 #### Clonar un repositorio.
 
 #### Hacer Fork de un repositorio existente.
-    1. Se busca el usuario del que se quiere copiar un proyecto a nuestro Git Hub.
-    2. Una vez se tiene el proyecto se da a Fork
+   1. Se busca el usuario del que se quiere copiar un proyecto a nuestro Git Hub.
+   2. Una vez se tiene el proyecto se da a Fork
     3. Se da al botón Code
     4. Se abre Git Bash.  
     5. Escribe git init

@@ -20,7 +20,7 @@ El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones 
 ## ¿Qué necesitamos para usar ***Github*** en nuestros proyectos?
 1. Alta Github: registrarse con una cuenta personal gratuita y comprobar la dirección de correo electrónico.
   > [!WARNING]
-  > REgistrarse [Ir a página oficial git](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github)
+  > Registrarse [Ir a página oficial git](https://github.com/.)
 2. Git Bash (terminal): 
 3. Carpeta en disco local.
 

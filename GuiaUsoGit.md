@@ -22,7 +22,7 @@ El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones 
 - Git Bash (terminal)
 - Carpeta en disco local.
 
-Comandos habituales para trabajar con repositorios remotos:
+## <ins>**Comandos habituales para trabajar con repositorios remotos:**</ins>
 - [ ] git init: Esto crea un subdirectorio nuevo llamado .git, el cual contiene todos los archivos necesarios del repositorio – un esqueleto de un repositorio de Git. Todavía no hay nada en tu proyecto que esté bajo seguimiento.
 - [ ] git status: Muestra el estado actual de la rama, como los cambios que hay sin commitear.
 - [ ] git remote: Actualiza tu repositorio remoto en caso de que algún otro desarrollador haya eliminado alguna rama remota. 

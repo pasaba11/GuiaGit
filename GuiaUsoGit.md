@@ -9,18 +9,22 @@ Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudi
 
 El mantenimiento del software Git está actualmente (2009) supervisado por Junio Hamano, quien recibe contribuciones al código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.
 ## ¿Qué es Github?
+GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena generalmente de forma pública.
+
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares. Al inicio, el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este sitio;[3]​ sin embargo, no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código abierto.
+
 ## ¿Qué necesitamos para usar ***Github*** en nuestros proyectos?
 - Alta Github
 - Git Bash (terminal)
 - Carpeta en disco local.
 
 Comandos habituales para trabajar con repositorios remotos:
-- [ ] git init
-- [ ] git status
-- [ ] git remote
-- [ ] git add .
-- [ ] git commit -m "mensaje"
-- [ ] git push
+- [ ] git init: Esto crea un subdirectorio nuevo llamado .git, el cual contiene todos los archivos necesarios del repositorio – un esqueleto de un repositorio de Git. Todavía no hay nada en tu proyecto que esté bajo seguimiento.
+- [ ] git status: Muestra el estado actual de la rama, como los cambios que hay sin commitear.
+- [ ] git remote: Actualiza tu repositorio remoto en caso de que algún otro desarrollador haya eliminado alguna rama remota. 
+- [ ] git add .: Comienza a trackear los archivos.
+- [ ] git commit -m "mensaje": Confirma los cambios realizados. El “mensaje” generalmente se usa para asociar al commit una breve descripción de los cambios realizados.
+- [ ] git push: Commitea los cambios desde el branch local origin al branch “nombre_rama”.
 
 #### Clonar un repositorio.
 

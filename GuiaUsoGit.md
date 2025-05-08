@@ -32,7 +32,7 @@ El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones 
 - [ ] git remote: Actualiza tu repositorio remoto en caso de que algún otro desarrollador haya eliminado alguna rama remota. 
 - [ ] git add .: Comienza a trackear los archivos.
 - [ ] git commit -m "mensaje": Confirma los cambios realizados. El “mensaje” generalmente se usa para asociar al commit una breve descripción de los cambios realizados.
-- [ ] git push: Commitea los cambios desde el branch local origin al branch “nombre_rama”.
+- [ ] git push: Commitea los cambios desde el branch local origin al branch “nombre_rama”. La primera vez da *error*, por lo que hay que escribir git push (-u origin man)
 
 #### Clonar un repositorio.
     1. En GitHub, navegue hasta la página principal del repositorio.
